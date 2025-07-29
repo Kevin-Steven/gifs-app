@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import { EncabezadoMenuLateralComponent } from "../encabezado-menu-lateral/encabezado-menu-lateral.component";
-import { OpcionesMenuLateralComponent } from "../opciones-menu-lateral/opciones-menu-lateral.component";
+import { EncabezadoMenuLateralComponent } from "./encabezado-menu-lateral/encabezado-menu-lateral.component";
+import { OpcionesMenuLateralComponent } from "./opciones-menu-lateral/opciones-menu-lateral.component";
 
 @Component({
   selector: 'gifs-menu-lateral',
